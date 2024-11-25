@@ -1,0 +1,43 @@
+cff-version: 1.0.0
+message: "If you use this material, please cite it as below."
+type: article
+authors:
+- family-names: "Lee"
+  given-names: "Jongha"
+  orcid: "https://orcid.org/0000-0001-7197-3529"
+- family-names: "Kwon"
+  given-names: "Taehyung"
+  orcid: "https://orcid.org/0000-0002-6177-7329"
+- family-names: "Moon"
+  given-names: "Heechan"
+  orcid: "https://orcid.org/0000-0001-7086-8911"
+- family-names: "Shin"
+  given-names: "Kijung"
+  orcid: "https://orcid.org/0000-0002-2872-1526"
+title: "SLADE Online Appendix"
+version: 1.0.0
+date-released: 2024-11-25
+url: "https://github.com/jhsk777/SPLASH-Online-Appendix"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Lee"
+    given-names: "Jongha"
+    orcid: "https://orcid.org/0000-0001-7197-3529"
+  - family-names: "Kwon"
+    given-names: "Taehyung"
+    orcid: "https://orcid.org/0000-0002-6177-7329"
+  - family-names: "Moon"
+    given-names: "Heechan"
+    orcid: "https://orcid.org/0000-0001-7086-8911"
+  - family-names: "Shin"
+    given-names: "Kijung"
+    orcid: "https://orcid.org/0000-0002-2872-1526"
+  month: 11
+  start: 1 # First page number
+  end: 6 # Last page number
+  title: "SPLASH Online Appendix"
+  issue: 1
+  volume: 1
+  year: 2024
+  url: "https://github.com/jhsk777/SPLASH-Online-Appendix"
